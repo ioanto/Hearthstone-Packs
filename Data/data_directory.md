@@ -10,8 +10,7 @@ The raw data file "packs.xlsx" has the following features:
     7.  g_rares (integer): A counter for the amount of golden rare rarity cards opened through a single pack.
     8.  g_epics (integer): A counter for the amount of golden epic rarity cards opened through a single pack.
     9.  g_legendaries (integer): A counter for the amount of golden legendary rarity cards opened through a single pack.
-    10. signatures (integer): A counter for the amount of signature rarity cards opened through a single pack.
-    11. expansion (categorical): A tracker for highlighting the expansion to which a pack belongs to.
+    10. expansion (categorical): A tracker for highlighting the expansion to which a pack belongs to.
 
 The raw data file "expansion.xlsx" has the following features:
     1.  expansion (categorical): Simple tracker for Hearthstone's expansions.
